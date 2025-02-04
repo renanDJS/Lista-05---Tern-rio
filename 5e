@@ -1,0 +1,7 @@
+@@ -10,5 +10,6 @@ static void Main()
+        string resultado = (numero > 10) ? "A condição é verdadeira." : "A condição é falsa.";
+
+        Console.WriteLine(resultado);
+        Console.ReadKey();
+    }
+}
